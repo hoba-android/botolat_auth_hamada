@@ -1,0 +1,5 @@
+Accessing credentials for hobaexpoaccount in project botolat
+Google Certificate Fingerprint:     77:95:81:5B:5E:9B:87:94:26:D6:54:84:D6:56:81:E7:6C:E7:A6:5D
+Google Certificate Hash (SHA-1):    7795815B5E9B879426D65484D65681E76CE7A65D
+Google Certificate Hash (SHA-256):  0777905285982510143AB936B5B5FB8FFC9A65C49F06A5B20DA5B498393BBF9C
+Facebook Key Hash:                  d5WBW16bh5Qm1lSE1laB52znpl0=
